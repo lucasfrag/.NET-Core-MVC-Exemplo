@@ -1,0 +1,41 @@
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\bin\Debug\netcoreapp3.1\Exemplo MVC.exe
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\bin\Debug\netcoreapp3.1\Exemplo MVC.deps.json
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\bin\Debug\netcoreapp3.1\Exemplo MVC.runtimeconfig.json
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\bin\Debug\netcoreapp3.1\Exemplo MVC.runtimeconfig.dev.json
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\bin\Debug\netcoreapp3.1\Exemplo MVC.dll
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\bin\Debug\netcoreapp3.1\Exemplo MVC.pdb
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\bin\Debug\netcoreapp3.1\Exemplo MVC.Views.dll
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\bin\Debug\netcoreapp3.1\Exemplo MVC.Views.pdb
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\obj\Debug\netcoreapp3.1\Exemplo MVC.csprojAssemblyReference.cache
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\obj\Debug\netcoreapp3.1\Exemplo MVC.AssemblyInfoInputs.cache
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\obj\Debug\netcoreapp3.1\Exemplo MVC.AssemblyInfo.cs
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\obj\Debug\netcoreapp3.1\Exemplo MVC.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\obj\Debug\netcoreapp3.1\Exemplo MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\obj\Debug\netcoreapp3.1\Exemplo MVC.RazorAssemblyInfo.cache
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\obj\Debug\netcoreapp3.1\Exemplo MVC.RazorAssemblyInfo.cs
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\obj\Debug\netcoreapp3.1\Exemplo MVC.TagHelpers.input.cache
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\obj\Debug\netcoreapp3.1\Exemplo MVC.TagHelpers.output.cache
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\obj\Debug\netcoreapp3.1\Exemplo MVC.RazorCoreGenerate.cache
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\obj\Debug\netcoreapp3.1\Exemplo MVC.RazorTargetAssemblyInfo.cache
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\obj\Debug\netcoreapp3.1\Exemplo MVC.RazorTargetAssemblyInfo.cs
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\obj\Debug\netcoreapp3.1\Exemplo MVC.Views.pdb
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\obj\Debug\netcoreapp3.1\staticwebassets\Exemplo MVC.StaticWebAssets.Manifest.cache
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\obj\Debug\netcoreapp3.1\staticwebassets\Exemplo MVC.StaticWebAssets.xml
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\obj\Debug\netcoreapp3.1\Exemplo MVC.dll
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\obj\Debug\netcoreapp3.1\Exemplo MVC.pdb
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\obj\Debug\netcoreapp3.1\Exemplo MVC.genruntimeconfig.cache
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\obj\Debug\netcoreapp3.1\Exemplo MVC.csproj.CopyComplete
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cadastro.cshtml.g.cs
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Confirmacao.cshtml.g.cs
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Lista.cshtml.g.cs
+C:\Users\Lucas Fraga\Desktop\Exemplo MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Servicos.cshtml.g.cs

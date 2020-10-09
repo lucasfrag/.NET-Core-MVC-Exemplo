@@ -1,0 +1,30 @@
+@model List<Aluno>
+@{
+    ViewData["Title"] = "Lista";
+}
+<h1>@ViewData["Title"] de alunos</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Idade</th>
+            <th>Nota</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (Aluno aluno in Model)
+        {
+            <tr>
+                <td>@aluno.Nome</td>
+                <td>@aluno.Idade</td>
+                <td>@aluno.Nota</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p>
+    <a asp-action="Cadastro">Adicionar outro aluno</a>
+</p>
