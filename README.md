@@ -2,4 +2,5 @@
 Código desenvolvido no vídeo tutorial postado no YouTube.
 
 • Link do vídeo: https://www.youtube.com/watch?v=wV-GQ3ONGcA&ab_channel=LucasFraga
-• Link do deploy: testedeploy8276.azurewebsites.net
+<br>
+• Link do deploy: https://testedeploy8276.azurewebsites.net/
