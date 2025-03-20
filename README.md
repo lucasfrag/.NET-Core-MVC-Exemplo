@@ -1,4 +1,4 @@
-# .NET Core MVC - Exemplo
+# .NET Core MVC - Aula
 Código desenvolvido no vídeo tutorial postado no YouTube.
 
 ### ⚠️ ATENÇÃO!!!
